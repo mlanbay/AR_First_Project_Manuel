@@ -11,9 +11,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/AR Template Scene.unity
     guid: bc22ec5886fa7674dbb832badde7a690
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Basic_Face_Filter.unity
     guid: ee2d2842c79d27b43aaaa9c54e859c08
+  - enabled: 1
+    path: Assets/Scenes/Heladeria_Face_Filter.unity
+    guid: aeef318e7e3643a4ca2258bc10944688
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
       type: 2}
