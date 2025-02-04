@@ -9,6 +9,7 @@ TagManager:
   - mask
   - simple
   - stars
+  - modelObject
   layers:
   - Default
   - TransparentFX
